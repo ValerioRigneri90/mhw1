@@ -272,6 +272,7 @@ div > img {
 .menu-container:hover .menu,
 .menu-container:hover .second-menu {
     background-color: white;
+    cursor:pointer;
 }
 
 .menu-container:hover .menu li a,
@@ -288,6 +289,7 @@ div > img {
 
 div:hover > img {
     filter: invert(1);
+    cursor:pointer;
 }
 
 section div button, .content-wrapper div button {
